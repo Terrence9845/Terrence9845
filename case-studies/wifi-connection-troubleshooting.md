@@ -1,7 +1,9 @@
-User Cannot Connect to WiFi
+# WiFi Connectivity Troubleshooting
+
+## IT Support Case Study #1
 
 
-IT Support Case Study #1
+
 
 Issue: User Unable to Connect to WiFi
 
