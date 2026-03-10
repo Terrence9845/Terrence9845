@@ -1,3 +1,6 @@
+## IT Support Case Studies
+
+- [WiFi Connectivity Troubleshooting](case-studies/wifi-connection-troubleshooting.md)
 ## Hi there 👋
 
 I'm Terry , a Aspiring IT Support Specialist based in the United Kingdom
