@@ -1,15 +1,3 @@
-## IT Support Case Studies
-
-- [WiFi Connectivity Troubleshooting](case-studies/wifi-connection-troubleshooting.md)
-## Hi there 👋
-
-I'm Terry , a Aspiring IT Support Specialist based in the United Kingdom
-I am an enthusiast within the tech world and always wanting to learn more.
-I am proficient in:
-
-- Technical troubleshooting
-- Problem diagnosis
-- Structured support workflows
-- IT documentation
-- Basic networking troubleshooting
+I'm a Computer Games Development graduate transitioning into IT support. I have experience with C# and C++, a background in customer service, and a strong interest in technology and problem-solving.
+I'm currently developing my knowledge of IT support, computer hardware, operating systems and networking through independent study and practical projects. I'm keen to build hands-on experience in a professional IT environment and develop a long-term career in technology.
 
